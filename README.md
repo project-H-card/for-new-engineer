@@ -96,8 +96,8 @@ __ただし、AIに書いてもらったコードは一部を変更した時の�
 サーバと実際に通信するようなwebアプリを作るにはこのあたりの理解が必須になる
 
 - [この講座がおすすめ](https://www.youtube.com/watch?v=QugDLcOo_EE&list=PLwM1-TnN_NN7-zdRV8YsGUB82VVhfYiWW&index=8)
-  - この #7〜#8 を見て実際のコードを書いてみよう！
-- JSONでデータをやりとりするのが基本になるので、軽〜く理解してもらおうといいと思う
+  - この #8〜#9 を見て実際のコードを書いてみよう！
+- JSONでデータをやりとりするのが基本になるので、軽〜く理解してもらうといいと思う
   - [この動画](https://www.youtube.com/watch?v=9LNM5NIJbDQ)とかがいいかも
 - 非同期処理・async/awaitについては [僕が書いた記事](https://qiita.com/zuisho-1848/items/a33813b78a008083387b) を読んでもらうと一気に理解が深まると思う
 
@@ -112,6 +112,10 @@ __ただし、AIに書いてもらったコードは一部を変更した時の�
 
 [この動画](https://www.youtube.com/watch?v=nRCNL9T3J98) を見ながら一緒に書いてみよう！
 
+## 9. MySQLの導入【10〜20分】
+[windows](https://prog-8.com/docs/mysql-env-win)
+
+MySQL（DBシステム）はフロントエンドの人は触らないんだけど、ダミーデータなどを用意しないと動かないので、環境だけは作ってほしい！
 
 
 # 以下、色々まとめ（最初は見なくていい）
