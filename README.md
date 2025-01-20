@@ -134,7 +134,7 @@ MySQL（DBシステム）はフロントエンドの人は触らないんだけ�
 MySQLは長い動画が多かった中、この動画はシンプルに最低限を教えてくれてるので、これを見て基礎を学ぼう！
 [SQL基礎講座　15分で理解する！【プログラミング】](https://www.youtube.com/watch?v=37EH-aC1qqE)
 
-サンプルのSQLを [sampleSQL.md](https://github.com/project-H-card/for-new-engineer/blob/main/README.md) にまとめたので、一つ一つ実行して理解してみよう！
+サンプルのSQLを [sampleSQL.md](https://github.com/project-H-card/for-new-engineer/blob/main/sampleSQL.md) にまとめたので、一つ一つ実行して理解してみよう！
 
 
 
