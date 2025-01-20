@@ -113,10 +113,29 @@ __ただし、AIに書いてもらったコードは一部を変更した時の�
 
 [この動画](https://www.youtube.com/watch?v=nRCNL9T3J98) を見ながら一緒に書いてみよう！
 
-## 9. MySQLの導入【10〜20分】
+## 9. MySQLの導入 【10〜20分】
 [windows](https://prog-8.com/docs/mysql-env-win)
 
 MySQL（DBシステム）はフロントエンドの人は触らないんだけど、ダミーデータなどを用意しないと動かないので、環境だけは作ってほしい！
+
+
+# バックエンド
+※以下は、バックエンドをやることになった人のみ
+
+※ Node.js はフロントエンドの7番でインストールしている前提
+
+※ MySQL はフロントエンドの9番でインストールしている前提
+
+## 1. express の理解 【1〜2時間】
+この動画を見ながら一緒にコードを書いて、`Express` というNode.jsのサーバーサイドフレームワークを学ぼう
+[【Express入門】Node.jsでWebアプリケーションの作り方を１から学ぼう！](https://www.youtube.com/watch?v=Zk7tpzaKv0U)
+
+## 2. MySQL の理解【1〜2時間】
+MySQLは長い動画が多かった中、この動画はシンプルに最低限を教えてくれてるので、これを見て基礎を学ぼう！
+[SQL基礎講座　15分で理解する！【プログラミング】](https://www.youtube.com/watch?v=37EH-aC1qqE)
+
+サンプルのSQLを [sampleSQL.md](https://github.com/project-H-card/for-new-engineer/blob/main/README.md) にまとめたので、一つ一つ実行して理解してみよう！
+
 
 
 # 以下、色々まとめ（最初は見なくていい）
