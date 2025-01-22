@@ -120,7 +120,7 @@ MySQL（DBシステム）はフロントエンドの人は触らないんだけ�
 
 
 # バックエンド
-※以下は、バックエンドをやることになった人のみ
+※ 以下は、バックエンドをやることになった人のみ
 
 ※ Node.js はフロントエンドの7番でインストールしている前提
 
@@ -136,6 +136,33 @@ MySQLは長い動画が多かった中、この動画はシンプルに最低限
 
 サンプルのSQLを [sampleSQL.md](https://github.com/project-H-card/for-new-engineer/blob/main/sampleSQL.md) にまとめたので、一つ一つ実行して理解してみよう！
 
+
+# モバイルアプリ
+※ 以下はモバイルアプリをやることになった人のみ
+
+※ VSCode はフロントエンドの2番でインストールしている前提
+
+## Flutter の環境構築
+入れるものは
+- `Flutter` そのもの
+  - モバイルアプリなどを含むクロスプラットフォーム（色んなもの向けのシステムを同じコードで実装できる）のフレームワーク。
+  - 言語としては `Dart` を使う（あまり他で使うことのない言語）
+- `Android Studio`
+  - エディタでもあるが、どちらかというとAndroidの「エミュレータ」（PCの中でAndroidのスマホを動かせるやつ）を入れるために使う
+
+[Flutter を VSCode で環境構築してみた！＜Windows編＞](https://qiita.com/shimizu-m1127/items/d8dfc2179bc01baaef6b)
+
+↑この記事はだいぶわかりやすい！（8番の「Visual Studio のダウンロード」はしなくて大丈夫）
+
+動画で見たい人は [Mac](https://www.youtube.com/watch?v=kpvVENfDCRc&list=PLuLRJz1UnJzE4-HlkLTG8ARbZ2TDBNHzZ) [Windows](https://www.youtube.com/watch?v=6J-KK1Ft9NY&list=PLuLRJz1UnJzE4-HlkLTG8ARbZ2TDBNHzZ&index=2) がわかりやすい。
+
+## Flutter の理解
+[「Flutter大学」の基礎の再生リスト](https://www.youtube.com/playlist?list=PLuLRJz1UnJzEDjRr1XkqyOzFzUi3Df4B0)
+
+この動画を見て理解を深めながら、可能なら一緒に動くものを作ってみてほしい
+
+## ハイストアプリの開発に参加
+ハイストアプリは Node.js, MySQL のサーバーを立てていないと起動しないので、この2つのインストールを終わらせてから開発に入ってもらう
 
 
 # 以下、色々まとめ（最初は見なくていい）
